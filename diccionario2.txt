@@ -1,0 +1,10 @@
+perro
+gato
+hipopotamo
+rinoceronte
+jirafa
+hamster
+raton
+leon
+tigre
+elefante

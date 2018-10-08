@@ -1,0 +1,10 @@
+huevo
+jitomate
+cebolla
+harina
+mantequilla
+aguacate
+sal
+pimienta
+oregano
+limon

@@ -1,0 +1,10 @@
+rueda
+volante
+gasolina
+diesel
+velocidad
+revoluciones
+aceite
+motor
+escape
+faros

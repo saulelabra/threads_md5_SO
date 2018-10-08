@@ -1,0 +1,10 @@
+guitarra
+piano
+violin
+trompeta
+trombon
+corno
+oboe
+clarin
+clarinete
+bateria
